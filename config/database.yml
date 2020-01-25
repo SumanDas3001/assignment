@@ -1,0 +1,12 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  pool: 30
+  host: localhost
+  database: search_api_development
+  username: arrivae
+  password: arrivae123
+  port: 5432
+
+
+  
